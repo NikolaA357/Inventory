@@ -1,0 +1,294 @@
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\ApplicationInsights.config
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Inventory.dll.config
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Inventory.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Inventory.pdb
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Antlr3.Runtime.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\EntityFramework.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\EntityFramework.SqlServer.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.Web.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Newtonsoft.Json.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.Helpers.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.Mvc.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.Optimization.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.Razor.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.WebPages.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\WebGrease.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\EntityFramework.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\EntityFramework.SqlServer.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.Helpers.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.Mvc.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.Optimization.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.Razor.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.WebPages.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Antlr3.Runtime.pdb
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Newtonsoft.Json.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\bin\Microsoft.AI.Web.xml
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\obj\Debug\Inventory.dll
+C:\Users\Nikol\Desktop\Vega zadatak\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\ApplicationInsights.config
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Inventory.dll.config
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Inventory.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Inventory.pdb
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Antlr3.Runtime.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\EntityFramework.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\EntityFramework.SqlServer.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.Web.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Newtonsoft.Json.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.Helpers.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.Mvc.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.Optimization.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.Razor.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.WebPages.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\WebGrease.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\EntityFramework.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\EntityFramework.SqlServer.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.Helpers.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.Mvc.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.Optimization.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.Razor.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.WebPages.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Antlr3.Runtime.pdb
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Newtonsoft.Json.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\bin\Microsoft.AI.Web.xml
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\obj\Debug\Inventory.dll
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\obj\Debug\Inventory.Migrations.FirstMigration.resources
+C:\Users\Nikol\Desktop\TestVega\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\ApplicationInsights.config
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Inventory.dll.config
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Inventory.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Inventory.pdb
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Antlr3.Runtime.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\EntityFramework.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\EntityFramework.SqlServer.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.Web.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.Helpers.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.Mvc.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.Optimization.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.Razor.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.WebPages.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\WebGrease.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\EntityFramework.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\EntityFramework.SqlServer.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.Helpers.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.Mvc.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.Optimization.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.Razor.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.WebPages.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Microsoft.AI.Web.xml
+C:\Users\Nikola\Desktop\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Inventory\Inventory\obj\Debug\Inventory.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Inventory\Inventory\obj\Debug\Inventory.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\ApplicationInsights.config
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Inventory.dll.config
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Inventory.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Inventory.pdb
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Antlr3.Runtime.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\EntityFramework.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\EntityFramework.SqlServer.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.Web.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.Helpers.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.Mvc.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.Optimization.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.Razor.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.WebPages.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\WebGrease.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\EntityFramework.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\EntityFramework.SqlServer.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.Helpers.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.Mvc.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.Optimization.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.Razor.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.WebPages.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Microsoft.AI.Web.xml
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\obj\Debug\Inventory.csproj.CopyComplete
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\obj\Debug\Inventory.dll
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\obj\Debug\Inventory.Migrations.FirstMigration.resources
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\invproba\Inventory\Inventory\bin\Z.EntityFramework.Plus.EF6.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\ApplicationInsights.config
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Inventory.dll.config
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Inventory.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Inventory.pdb
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Antlr3.Runtime.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\EntityFramework.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\EntityFramework.SqlServer.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.Web.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.Helpers.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.Mvc.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.Optimization.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.Razor.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.WebPages.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\WebGrease.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Z.EntityFramework.Plus.EF6.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\EntityFramework.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\EntityFramework.SqlServer.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.Helpers.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.Mvc.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.Optimization.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.Razor.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.WebPages.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\bin\Microsoft.AI.Web.xml
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\obj\Debug\Inventory.csproj.CopyComplete
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\obj\Debug\Inventory.dll
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\obj\Debug\Inventory.Migrations.First.resources
+C:\Users\Nikola\Desktop\inv22\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\ApplicationInsights.config
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Inventory.dll.config
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Inventory.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Inventory.pdb
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Antlr3.Runtime.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\EntityFramework.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\EntityFramework.SqlServer.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.Web.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.Helpers.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.Mvc.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.Optimization.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.Razor.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.WebPages.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\WebGrease.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Z.EntityFramework.Plus.EF6.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\EntityFramework.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\EntityFramework.SqlServer.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.Helpers.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.Mvc.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.Optimization.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.Razor.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.WebPages.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\bin\Microsoft.AI.Web.xml
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\obj\Debug\Inventory.csproj.CopyComplete
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\obj\Debug\Inventory.dll
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\obj\Debug\Inventory.Migrations.MemType.resources
+C:\Users\Nikola\Desktop\inv22 - Copy\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\Inventory\Inventory\bin\Z.EntityFramework.Plus.EF6.dll
+C:\Users\Nikola\Desktop\Inventory\Inventory\obj\Debug\Inventory.Migrations.MemType.resources

@@ -1,0 +1,42 @@
+﻿@model Inventory.Models.ArticleInStorageCounter
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ArticleInStorageCounter</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Articles.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Articles.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WareHouses.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WareHouses.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ArticleCounter)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ArticleCounter)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

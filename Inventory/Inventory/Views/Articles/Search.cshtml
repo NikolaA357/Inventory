@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Inventory.Models.Article>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Categories.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PhotographyOfArticle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TextField)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Categories.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <img width="200" height="150" src="@item.base64" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TextField)
+            </td>
+        </tr>
+    }
+
+</table>

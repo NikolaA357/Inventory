@@ -1,0 +1,35 @@
+﻿
+
+.jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 450px;
+}
+.jumbotron h1 {
+    color: white;
+}
+
+.table tr:nth-child(odd) {
+    padding: 10px;
+    color: white;
+    background-color: black;
+    opacity: 0.6;
+}
+.table tr:nth-child(odd) a {
+    color: white;
+}
+.table {
+    font-size: 16px;
+}
+.table td a {
+    color: black;
+    font-weight: 700;
+}
+.btn-create {
+    margin-bottom: 30px;
+}
+.btn-create a {
+    font-size: 18px;
+    color: #4682B4;
+}
